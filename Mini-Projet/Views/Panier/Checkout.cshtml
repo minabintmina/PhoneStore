@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Checkout";
+}
+
+
+
+<style>
+    .center-form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+    .form-container {
+        max-width: 1000px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: white;
+    }
+</style>
+
+<div class="center-form">
+    <div class="form-container">
+        <h2>Checkout</h2>
+
+        <form action="../Controllers/CommandeController" method="post">
+            <div class="form-group">
+                <label for="firstName">UserName:</label>
+                <input type="text" class="form-control" id="firstName" name="firstName" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Place Order</button>
+        </form>
+    </div>
+</div>

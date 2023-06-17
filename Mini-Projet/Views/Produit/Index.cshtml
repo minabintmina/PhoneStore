@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> SignInManager
+@model IEnumerable<Mini_Projet.Models.Produit>
+
+@{
+    ViewData["Title"] = "Liste des Articles";
+}
+
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+    <p>
+        <a class="text-secondary" style="font-size: larger; margin-left: 10px; font-weight: 200" asp-action="Create">Create New</a>
+    </p>
+}
+
+<div class="card-group">
+    @foreach (var product in Model)
+    {
+        <div class="card m-4" style="min-width: 18rem; max-width: 26.5%; height: auto">
+            <img class="card-img-top" src="~/images/@product.Image" alt="Product Image" style="height: 250px;">
+            <div class="card-body">
+                <h5 class="card-title">@product.Nom</h5>
+                <p class="card-text">Price: @product.Prix <b>Dt</b></p>
+                @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                {
+                    <p class="card-text">Quantity: @product.Quantite</p>
+                }
+                <a href="/Produit/Details/@product.ProduitId" class="btn btn-primary">Details »</a>
+                @Html.ActionLink("Ajouter au panier »", "AjouterProduit", "Panier", new { id = @product.ProduitId }, new { @class = "btn btn-primary" })
+                @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                {
+                    <a asp-action="Edit" asp-controller="Produit" class="btn btn-primary" asp-route-id="@product.ProduitId">Edit</a>
+                    <a asp-action="Delete" asp-controller="Produit" class="btn btn-primary" asp-route-id="@product.ProduitId">Delete</a>
+                }
+            </div>
+        </div>
+    }
+</div>

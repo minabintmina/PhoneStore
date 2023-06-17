@@ -1,0 +1,78 @@
+﻿<style>
+    .form-container {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: white;
+    }
+
+    .form-group label {
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .form-group input {
+        font-size: 14px;
+    }
+
+    .form-group .checkbox label {
+        font-size: 14px;
+    }
+
+    .form-group .checkbox input[type="checkbox"] {
+        margin-right: 5px;
+    }
+
+    .form-group .text-danger {
+        font-size: 12px;
+    }
+
+    .form-group .btn-primary {
+        font-size: 14px;
+    }
+</style>
+
+@model Mini_Projet.ViewModel.LoginViewModel
+@{
+    ViewBag.Title = "User Login";
+}
+<center>
+<h3>User Login</h3>
+</center>
+
+@{
+    var returnUrl = Context.Request.Query["ReturnUrl"];
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-container">
+            <form asp-route-returnurl="@returnUrl" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox">
+                        <label asp-for="RememberMe">
+                            <input asp-for="RememberMe" />
+                            @Html.DisplayNameFor(m => m.RememberMe)
+                        </label>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    Login
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

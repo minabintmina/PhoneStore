@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Mini-Projet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mini-Projet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\css\\bootstrap.ME.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.ME.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\css\\bootstrapSlut.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrapSlut.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\0e1ae2dc-2844-469e-81d1-3febbbee4b8d_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\0e1ae2dc-2844-469e-81d1-3febbbee4b8d_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\1.mp4",
+      "PackagePath": "staticwebassets\\images\\1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\138cce8a-2d3d-49cf-b76a-0ad7da3ce2db_infinix.jpg",
+      "PackagePath": "staticwebassets\\images\\138cce8a-2d3d-49cf-b76a-0ad7da3ce2db_infinix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\1aa70a27-dd26-4c9f-8253-acfe6562bad7_640d9514-f2ff-4a46-861d-60c72a0a9a77_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\1aa70a27-dd26-4c9f-8253-acfe6562bad7_640d9514-f2ff-4a46-861d-60c72a0a9a77_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\1aec04ac-c6d5-4229-ab1c-f8191cf00297_huawei.png",
+      "PackagePath": "staticwebassets\\images\\1aec04ac-c6d5-4229-ab1c-f8191cf00297_huawei.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\1ea8d378-25d4-4bd3-96ce-0d55d3750bd7_Iphone 8 64g.jpg",
+      "PackagePath": "staticwebassets\\images\\1ea8d378-25d4-4bd3-96ce-0d55d3750bd7_Iphone 8 64g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\29041c18-d9d7-4774-b9e7-b8ba204c661d_nokia106.jpg",
+      "PackagePath": "staticwebassets\\images\\29041c18-d9d7-4774-b9e7-b8ba204c661d_nokia106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\4907f5b9-8492-4bb4-8240-c8dde79ba63a_infinix.jpg",
+      "PackagePath": "staticwebassets\\images\\4907f5b9-8492-4bb4-8240-c8dde79ba63a_infinix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\49fc20e8-3ccc-430b-ad6f-0bc7d24ec229_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\49fc20e8-3ccc-430b-ad6f-0bc7d24ec229_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\50ad6b89-0e54-4748-b1a9-bf5a88b5af90_infinixsm4.jpg",
+      "PackagePath": "staticwebassets\\images\\50ad6b89-0e54-4748-b1a9-bf5a88b5af90_infinixsm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\5cbd8085-b58d-4b9c-a428-6d20f1c11134_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\5cbd8085-b58d-4b9c-a428-6d20f1c11134_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\640d9514-f2ff-4a46-861d-60c72a0a9a77_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\640d9514-f2ff-4a46-861d-60c72a0a9a77_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\68cbeb2c-051e-4098-acfc-9454fd688c35_j7.jpg",
+      "PackagePath": "staticwebassets\\images\\68cbeb2c-051e-4098-acfc-9454fd688c35_j7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\72029f86-d1c5-4b7b-bba5-f5f76c10a44f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\72029f86-d1c5-4b7b-bba5-f5f76c10a44f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\ContenuPanier.cs",
+      "PackagePath": "staticwebassets\\images\\ContenuPanier.cs"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\Iphone 8 64g.jpg",
+      "PackagePath": "staticwebassets\\images\\Iphone 8 64g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\TP-N5_venteProduit.pdf",
+      "PackagePath": "staticwebassets\\images\\TP-N5_venteProduit.pdf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\a534172d-9199-4d9a-840e-1c7b4175675a_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\a534172d-9199-4d9a-840e-1c7b4175675a_58093c09-b9f3-4abf-bcf2-e3834db00d7e_0d10b33b-feae-4c61-b977-be84461dc83f_46b3231c-9de1-4ab6-92a9-8276d094323c_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\b6cace52-6690-4821-bf2e-f07bebd565fe_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png",
+      "PackagePath": "staticwebassets\\images\\b6cace52-6690-4821-bf2e-f07bebd565fe_31364996-b201-48ff-8bdf-b64d6eb72d76_1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\bec6df68-a48d-497b-96e0-f5c376ffe1d0_xiomi.jpg",
+      "PackagePath": "staticwebassets\\images\\bec6df68-a48d-497b-96e0-f5c376ffe1d0_xiomi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\d244786f-e87a-482e-a8dd-52bfd2da4616_nokia.jpg",
+      "PackagePath": "staticwebassets\\images\\d244786f-e87a-482e-a8dd-52bfd2da4616_nokia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\d5a66849-64fe-4442-b9a2-e2171c341850_samsung.jpg",
+      "PackagePath": "staticwebassets\\images\\d5a66849-64fe-4442-b9a2-e2171c341850_samsung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\delet.png",
+      "PackagePath": "staticwebassets\\images\\delet.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\e23b434d-3b70-44df-b86b-b72b94ad2d70_iphone14.jpg",
+      "PackagePath": "staticwebassets\\images\\e23b434d-3b70-44df-b86b-b72b94ad2d70_iphone14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\huawei.png",
+      "PackagePath": "staticwebassets\\images\\huawei.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\infinix.jpg",
+      "PackagePath": "staticwebassets\\images\\infinix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\infinixsm4.jpg",
+      "PackagePath": "staticwebassets\\images\\infinixsm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\iphone14.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\j7.jpg",
+      "PackagePath": "staticwebassets\\images\\j7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\moin.png",
+      "PackagePath": "staticwebassets\\images\\moin.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\nokia.jpg",
+      "PackagePath": "staticwebassets\\images\\nokia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\nokia106.jpg",
+      "PackagePath": "staticwebassets\\images\\nokia106.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\samsung.jpg",
+      "PackagePath": "staticwebassets\\images\\samsung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\images\\xiomi.jpg",
+      "PackagePath": "staticwebassets\\images\\xiomi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Mini-Projet\\Mini-Projet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Mini-Projet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Mini-Projet.props",
+      "PackagePath": "build\\Mini-Projet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Mini-Projet.props",
+      "PackagePath": "buildMultiTargeting\\Mini-Projet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Mini-Projet.props",
+      "PackagePath": "buildTransitive\\Mini-Projet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
